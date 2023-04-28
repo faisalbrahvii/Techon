@@ -1,0 +1,15 @@
+{
+    "non-veg":[
+        {"price":"$560","des":"Women Citizen Navihawk AT Alarm Chronograph Radio  ","img":"im/nv1.jpeg"  },
+        {"price":"$560","des":"Ladies Citizen Watch Crystal Case Watch ","img":"im/nv1.jpeg"  },
+        {"price":"$560","des":"Ladies Vivienne Westwood Orb Heart Watch ","img":"im/nv1.jpeg"  },
+        {"price":"$560","des":"Ladies Vivienne Westwood The Wallace Watch ","img":"im/nv1.jpeg"  }
+    ],
+
+    "veg":[
+        {"price1":"$60","des":"Carrots are packed with vitamin A, delivering 119% of the DV in just 1 cup (128 grams) (4Trusted Source).  ","img":"im/v1.jpeg"  },
+        {"price1":"$50","des":"occoli is rich in a sulfur-containing plant compound called glucosinolate, as well as its byproduct sulforaphane (8).  ","img":"im/v2.jpeg"  },
+        {"price1":"$56","des":"occoli is rich in a sulfur-containing plant compound called glucosinolate, as well as its byproduct sulforaphane (8). ","img":"im/v3.jpeg"  },
+        {"price1":"$20","des":"occoli is rich in a sulfur-containing plant compound called glucosinolate, as well as its byproduct sulforaphane (8).  ","img":"im/v4.jpeg"  }
+    ]
+}
